@@ -9,7 +9,7 @@
     
    &nbsp;&#10022; Just call me **Khalan**
 
-   &nbsp;&#10022;: Currently learning about basic web programming
+   &nbsp;&#10022; Currently learning about basic web programming
 
    &nbsp;&#10022; Have good understanding of Web Development
 
