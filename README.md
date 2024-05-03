@@ -19,7 +19,7 @@
    
   </p>
 
-<h2 align="center">🧑‍💻 Most Used Technologies 🧑‍💻</h2>
+<h2 align="center">🌠 Most Used Technologies 🌠</h2>
 <br>
 <p align="center">
   
