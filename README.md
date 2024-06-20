@@ -1,7 +1,7 @@
 
-# I'am Nakhalan Atqiya Arifin Putra
-<img src="./assets/bg3.jpg">
 
+<img src="./assets/bg3.jpg">
+#👋Hi!, I'am Nakhalan Atqiya Arifin Putra
 
   <p align="right">
 
