@@ -1,7 +1,7 @@
 
 
 <img src="./assets/bg3.jpg">
-#👋Hi!, I'am Nakhalan Atqiya Arifin Putra
+<h1 align="center">👋Hi!, I'am Nakhalan Atqiya Arifin Putra</h1>
 
   <p align="right">
 
