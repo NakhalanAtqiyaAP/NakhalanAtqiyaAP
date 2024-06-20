@@ -33,7 +33,7 @@
 
     # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nakhalanatqiyaap&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api?username=nakhalanatqiyaaptheme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=nakhalanatqiyaap&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nakhalanatqiyaap&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwind" width="54" height="54" style="vertical-align:top; margin:4px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="54" height="54" style="vertical-align:top; margin:4px;">
