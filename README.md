@@ -1,6 +1,6 @@
 
 # I'am Nakhalan Atqiya Arifin Putra
-<img src="./assets/bg.jpg">
+<img src="https://r4.wallpaperflare.com/wallpaper/657/800/894/pixel-sorting-glitch-art-aurorae-wallpaper-22412290bdc64edbeae8d215e0781922.jpg">
 
 
   <p align="right">
