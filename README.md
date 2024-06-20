@@ -15,7 +15,7 @@
 
    &nbsp;&#10022; My current goals is To become Fullstack Web Developer, and Make a game
    
-   &nbsp;&#10022; Let's talk about Web development, Game Develover, And Anime stuff
+   &nbsp;&#10022; Let's talk about Web development, Game Develover, Anime stuff, and Music !!!
    
   </p>
 
