@@ -36,6 +36,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="54" height="54" style="vertical-align:top; margin:4px;">
 
     
+   <h2 align="center">🌠 Most Used Technologies 🌠</h2>
    
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nakhalanatqiyaap&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=nakhalanatqiyaap&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
