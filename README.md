@@ -1,6 +1,6 @@
 
 # I'am Nakhalan Atqiya Arifin Putra
-<img src="./assets/bg2.jpg">
+<img src="./assets/bg3.jpg">
 
 
   <p align="right">
