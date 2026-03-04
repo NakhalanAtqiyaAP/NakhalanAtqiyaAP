@@ -12,9 +12,9 @@
 
    &nbsp;&#10022; Have good understanding of Web Development
 
-   &nbsp;&#10022; My current goals is To become Fullstack Web Developer, and Make a game
+   &nbsp;&#10022; My current goals are to become a Full-stack Web Developer, and build my own Studio Game
    
-   &nbsp;&#10022; Let's talk about Web development, Game Develover, Anime stuff, and Music !!!
+   &nbsp;&#10022; Let's talk about Web development, Game Developer, Anime stuff, and Music !!!
    
   </p>
 
