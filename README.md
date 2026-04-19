@@ -3,56 +3,60 @@
 </p>
 
 <div align="center">
-  <h3> 🚀 Full-stack Web Developer & Game Studio Aspirant 🚀 </h3>
-  <p> Just call me <b>Khalan</b>. Currently diving deep into the world of Web Development and Game Engines. </p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00B4D8&center=true&vCenter=true&width=435&lines=Full-stack+Web+Developer+to-be;Aspiring+Game+Studio+Founder;Anime+Enthusiast;Music+Lover" alt="Typing SVG" />
 </div>
 
 ---
 
 ### 💫 About Me
-- 🔭 I’m currently working on **Basic Web Programming** and **C++ Projects**.
-- 🎯 My goals: Become a **Full-stack Developer** and build my own **Game Studio**.
-- 💬 Ask me about: **Web Development, Unity, C#, or even Anime & Music!**
-- ⚡ Fun fact: I enjoy learning piano notation for Indonesian pop songs.
+<p align="left">
+  Halo! Saya <strong>Nakhalan Atqiya Arifin Putra</strong>. Saat ini saya sedang mendalami dunia <strong>Web Programming</strong> dan punya mimpi besar untuk mendirikan <strong>Studio Game</strong> sendiri. 
+</p>
+
+* 🔭 **Sedang belajar:** Web Development (Full-stack focus).
+* 🎮 **Hobi:** Coding, nonton Anime, dan main Musik.
+* 💬 **Mari mengobrol tentang:** JavaScript, Unity, C++, atau rekomendasi Anime musim ini!
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ My Tech Stack
 
-<table>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind" />
-      <br>Frontend
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs,mysql,postgres" />
-      <br>Backend & DB
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=cpp,cs,unity" />
-      <br>Game Dev
-    </td>
-  </tr>
-</table>
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Web Frontend** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) |
+| **Backend & DB** | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **Game Dev** | ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) |
 
 ---
 
-### 📊 My GitHub Stats
+### 📊 My GitHub Journey (Alternative Stats)
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nakhalanatqiyaap&theme=tokyonight&area=true&hide_border=true" width="100%" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=nakhalanatqiyaap&show_icons=true&theme=tokyonight&rank_icon=github&display_format=compact" alt="Khalan's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakhalanatqiyaap&theme=tokyonight&layout=compact" alt="Top Langs" />
+  <h4>🏆 GitHub Trophies</h4>
+  <img src="https://github-profile-trophy.vercel.app/?username=nakhalanatqiyaap&theme=tokyonight&no-bg=true&margin-w=4" alt="trophies" />
+</div>
+
+<br />
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=nakhalanatqiyaap&theme=tokyo-night&bg_color=1a1b27&hide_border=true" width="100%" />
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=nakhalanatqiyaap&show_icons=true&theme=tokyonight&hide_border=true" width="100%" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakhalanatqiyaap&theme=tokyonight&hide_border=true&layout=compact" />
 </div>
 
 ---
 
-### 📫 Connect with me
-<p align="left">
-<a href="https://linkedin.com/in/YOUR_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://discord.com/users/YOUR_DISCORD_ID" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
-<a href="https://instagram.com/YOUR_INSTAGRAM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00b4d8&height=30&section=footer" width="100%"/>
 </p>
-
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/assets/neon_line.gif" width="100%">
