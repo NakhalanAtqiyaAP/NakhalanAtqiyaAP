@@ -1,59 +1,58 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Hi,%20I'm%20Khalan!&fontSize=70" />
+  <img src="./assets/bg3.jpg" alt="Header Banner" width="100%" style="border-radius: 15px;">
+  
+  <h1>👋 Hi there! I'm Nakhalan Atqiya Arifin Putra</h1>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Just+call+me+Khalan;Full-Stack+Web+Developer;Game+Developer+Enthusiast" alt="Typing SVG" />
+  </a>
 </div>
 
-<div align="right">
-  <p>
-    <strong>Nakhalan Atqiya Arifin Putra</strong> ✨<br>
-    <em>Aspiring Full-stack Web Developer & Game Studio Founder</em>
-  </p>
+<br>
 
-  🚀 Sedang mendalami fundamental Web Programming<br>
-  🎮 Fokus membangun keahlian di Web Development & Game Dev<br>
-  💬 Mari diskusi tentang: <b>Web Dev, Game Design, Anime, & Music!</b>
-</div>
+### 👨‍💻 About Me
+
+<p align="left">
+  &nbsp;&nbsp;✨ <b>Currently learning:</b> Advanced Web Development & Full-Stack engineering.<br>
+  &nbsp;&nbsp;🎯 <b>My current goals:</b> Become a Professional Full-Stack Web Developer and build my own Game Studio.<br>
+  &nbsp;&nbsp;💬 <b>Ask me about:</b> Web Development, Game Development, Anime, and Music!<br>
+  &nbsp;&nbsp;⚡ <b>Fun fact:</b> I love blending logic with creativity, whether it's through code or game design.
+</p>
 
 ---
 
-### 🌠 Stack & Technologies
+<h3 align="center">🛠️ Most Used Technologies</h3>
+
+<br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,tailwind,bootstrap,postgres,mysql,cpp,cs,unity&theme=dark&perline=6" alt="My Skills" />
+  </a>
 </div>
+
+<br>
 
 ---
 
-### 📊 GitHub Analytics
+<h3 align="center">📊 GitHub Analytics</h3>
+
+<br>
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=nakhalanatqiyaap&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Khalan's Stats" />
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakhalanatqiyaap&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nakhalanatqiyaap&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=nakhalanatqiyaap&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&column=6" alt="GitHub Trophies" />
+  </a>
+  
+  <br><br>
+  
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=nakhalanatqiyaap&theme=tokyo-night&hide_border=true&bg_color=1a1b27" alt="Activity Graph" />
+  </a>
+  
+  <br><br>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakhalanatqiyaap&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  </a>
 </div>
