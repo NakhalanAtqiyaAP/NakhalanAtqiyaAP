@@ -1,55 +1,60 @@
 <div align="center">
-  <img src="./assets/bg3.jpg" alt="Header Background" width="100%" style="border-radius: 15px; margin-bottom: 20px;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hi,%20I'm%20Khalan!&fontSize=70&animation=fadeIn" />
 
-  <h1>👋 Hi! I'm Nakhalan Atqiya Arifin Putra (Khalan)</h1>
-  <h3>Full-Stack Web Developer Enthusiast & Aspiring Game Studio Founder</h3>
+  <h1>👋 Nakhalan Atqiya Arifin Putra</h1>
 
   <p>
-    <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
+    <a href="https://github.com/nakhalanatqiyaap"><img src="https://img.shields.io/badge/Role-Web%20Developer-blue?style=for-the-badge" /></a>
+    <a href="https://github.com/nakhalanatqiyaap"><img src="https://img.shields.io/badge/Goal-Game%20Studio%20Founder-orange?style=for-the-badge" /></a>
+  </p>
+
+  <p align="center">
+    <i>"Building the web and crafting worlds, one line of code at a time."</i>
   </p>
 </div>
 
----
+<hr />
 
-### 👨‍💻 About Me
-- 🎓 Currently deepening my knowledge in **Web Programming** and **Game Development**.
-- 🏆 **Achievements:** Unity Certified Associate in Game Development (2025) & Global Game Jam 2025 Participant.
-- 💻 **Currently Exploring:** Building interactive web portfolios with **React & Firebase**, and experimenting with 3D environment shaders in **Unity**.
-- 🎯 **Goals:** Become a Full-Stack Web Developer and establish my own Game Studio.
-- 💬 **Let's talk about:** Web Development, Game Design, Anime stuff, and Music!
+### 🚀 About Me
+- 🔭 **Current Focus:** Learning basic & advanced web programming.
+- ⚡ **Goals:** Aspiring Full-stack Web Developer & Game Studio Owner.
+- 💬 **Let's Talk About:** Web Development, Game Design, Anime, and Music.
+- 📫 **Contact:** [Tautkan link sosial media/email di sini]
 
----
+<hr />
 
-### 🛠️ Tech Stack & Tools
-
-**Web Development**<br>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nodejs" alt="Web Dev Tools" />
-</a>
-
-<br>
-
-**Game Development & Languages**<br>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=unity,cs,cpp" alt="Game Dev Tools" />
-</a>
-
-<br>
-
-**Database**<br>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase" alt="Databases" />
-</a>
-
----
-
-### 📊 GitHub Stats
+### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nakhalanatqiyaap&theme=tokyonight&hide_border=false" alt="Streak Stats" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=nakhalanatqiyaap&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="Github Stats" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakhalanatqiyaap&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <br />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <br />
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" />
 </div>
+
+<hr />
+
+### 📊 GitHub Metrics
+Sebagai alternatif, kita menggunakan layout yang lebih *clean* dan modern:
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nakhalanatqiyaap&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Khalan's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakhalanatqiyaap&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nakhalanatqiyaap&theme=radical" alt="Summary Cards" width="100%" />
+</div>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nakhalanatqiyaap&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
