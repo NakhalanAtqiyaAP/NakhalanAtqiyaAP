@@ -1,62 +1,58 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7B66FF&height=250&section=header&text=Nakhalan%20Atqiya%20Arifin%20&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Dev%20|%20Game%20Developer%20|%20Anime%20Enthusiast&descAlignY=55&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=200&section=header&text=Hi,%20I'm%20Khalan!&fontSize=70&animation=fadeIn" />
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nakhalanatqiyaap&label=Profile%20Views&color=7B66FF&style=flat-square" alt="Views" />
+  <h3> 🚀 Full-stack Web Developer & Game Studio Aspirant 🚀 </h3>
+  <p> Just call me <b>Khalan</b>. Currently diving deep into the world of Web Development and Game Engines. </p>
 </div>
 
 ---
 
-### 👾 About Me
-<p align="left">
- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqZ3R5amZpbmZqZ3R5amZpbmZqZ3R5amZpbmZqZ3R5amZpbmZqJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="150" align="right" />
-
-* 👋 Halo! Panggil saja saya **Khalan**.
-* 🚀 Sedang mendalami **Web Development** & **Game Development**.
-* 🎯 Fokus saat ini: Menjadi **Full-stack Web Developer** & membangun **Studio Game** impian.
-* 💬 Tanya saya tentang: **JavaScript, Unity, Anime, atau Musik**.
-* 🎮 Hobis: Coding sambil dengerin soundtrack game pixel.
-</p>
+### 💫 About Me
+- 🔭 I’m currently working on **Basic Web Programming** and **C++ Projects**.
+- 🎯 My goals: Become a **Full-stack Developer** and build my own **Game Studio**.
+- 💬 Ask me about: **Web Development, Unity, C#, or even Anime & Music!**
+- ⚡ Fun fact: I enjoy learning piano notation for Indonesian pop songs.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black" />
-</p>
+
+<table>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind" />
+      <br>Frontend
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs,mysql,postgres" />
+      <br>Backend & DB
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=cpp,cs,unity" />
+      <br>Game Dev
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📊 Leveling Up (GitHub Stats)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nakhalanatqiyaap&show_icons=true&theme=tokyonight&hide_border=true&title_color=7B66FF&icon_color=7B66FF&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakhalanatqiyaap&layout=compact&theme=tokyonight&hide_border=true&title_color=7B66FF&bg_color=0D1117" width="41%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nakhalanatqiyaap&theme=tokyonight&hide_border=true&ring=7B66FF&fire=7B66FF&stroke=7B66FF&currStreakLabel=7B66FF" width="90%" />
-</p>
+### 📊 My GitHub Stats
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nakhalanatqiyaap&theme=tokyonight&area=true&hide_border=true" width="100%" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=nakhalanatqiyaap&show_icons=true&theme=tokyonight&rank_icon=github&display_format=compact" alt="Khalan's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakhalanatqiyaap&theme=tokyonight&layout=compact" alt="Top Langs" />
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Trident912/Trident912/master/assets/line-neon.gif" width="100%">
+### 📫 Connect with me
+<p align="left">
+<a href="https://linkedin.com/in/YOUR_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://discord.com/users/YOUR_DISCORD_ID" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
+<a href="https://instagram.com/YOUR_INSTAGRAM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
 
-<p align="center">
-  "The only way to do great work is to love what you do." <br>
-  <b>Let's build something awesome!</b>
-</p>
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/assets/neon_line.gif" width="100%">
