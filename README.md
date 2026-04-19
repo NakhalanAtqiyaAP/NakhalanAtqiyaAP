@@ -20,7 +20,6 @@
   🤝 <strong>Community Builder:</strong> I actively manage and moderate game development groups, keeping the engagement alive.<br>
   🎯 <strong>My Goals:</strong> Become a top-tier Full-stack Web Developer and build my own Game Studio.<br>
   💻 <strong>Currently Coding:</strong> Implementing C++ algorithms and building out web projects.<br>
-  🎹 <strong>When I'm not coding:</strong> You'll probably find me learning Indonesian pop songs on the piano, watching anime, or talking about game dev!
 </p>
 
 ---
@@ -46,10 +45,8 @@
 
 ---
 
-### 💬 Let's Connect!
-
 <div align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://discord.com/users/yourdiscordid"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="mailto:your.nakhalanatqiyaarifin@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/nakhalan-atqiya-arifin-putra-4b5b082a3/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://discord.com/users/orangejahad21"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 </div>
