@@ -15,7 +15,7 @@
 ### 👨‍💻 About Me
 
 <p align="left">
-  👋 Just call me **Khalan**.<br>
+  👋 Just call me Khalan.<br>
   📚 Currently learning full-stack web development.<br>
   🎯 My goals are to become a Full-stack Web Developer and build my own Studio Game.<br>
   💬 Let's talk about Web development, Game Development, Anime, and Music!
