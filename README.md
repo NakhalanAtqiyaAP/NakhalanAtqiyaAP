@@ -4,7 +4,7 @@
   <h1>👋 Nakhalan Atqiya Arifin Putra</h1>
 
   <p>
-    <a href="https://github.com/nakhalanatqiyaap"><img src="https://img.shields.io/badge/Role-Web%20Developer-blue?style=for-the-badge" /></a>
+    <a href="https://github.com/nakhalanatqiyaap"><img src="https://img.shields.io/badge/Role-Web&Game%20Developer-blue?style=for-the-badge" /></a>
     <a href="https://github.com/nakhalanatqiyaap"><img src="https://img.shields.io/badge/Goal-Game%20Studio%20Founder-orange?style=for-the-badge" /></a>
   </p>
 
@@ -19,7 +19,6 @@
 - 🔭 **Current Focus:** Learning basic & advanced web programming.
 - ⚡ **Goals:** Aspiring Full-stack Web Developer & Game Studio Owner.
 - 💬 **Let's Talk About:** Web Development, Game Design, Anime, and Music.
-- 📫 **Contact:** [Tautkan link sosial media/email di sini]
 
 <hr />
 
