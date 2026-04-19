@@ -1,4 +1,4 @@
-<p align="center">
+**<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=200&section=header&text=Hi,%20I'm%20Khalan!&fontSize=70&animation=fadeIn" />
 </p>
 
@@ -60,3 +60,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=00b4d8&height=30&section=footer" width="100%"/>
 </p>
+**
