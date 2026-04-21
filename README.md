@@ -45,7 +45,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nakhalanatqiyaap&theme=tokyonight" alt="Profile Summary" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nakhalanatqiyaap&theme=gotham" alt="Profile Summary" width="100%"/>
 </div>
 
 ---
