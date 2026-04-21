@@ -43,6 +43,17 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nakhalanatqiyaap&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="nakhalanatqiyaap's Top Languages" height="192px"/>
 </div>
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nakhalanatqiyaap&theme=tokyonight&no-bg=true&margin-w=4" alt="nakhalanatqiyaap's Trophies" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nakhalanatqiyaap&theme=tokyonight&hide_border=true&background=0D1117" alt="nakhalanatqiyaap's GitHub Streak" height="192px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nakhalanatqiyaap&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117&show=reviews,discussions_answered,discussions_started,prs_merged,prs_merged_percentage" alt="Additional Stats" height="192px"/>
+</div>
+
 ---
 
 <div align="center">
