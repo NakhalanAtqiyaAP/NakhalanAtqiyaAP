@@ -12,7 +12,7 @@
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 
 <p align="left">
   👋 Just call me <b>Khalan</b><br>
@@ -24,7 +24,7 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
+###  Tech Stack & Tools
 
 <div align="center">
   <p><strong>Web Development</strong></p>
@@ -36,7 +36,7 @@
 
 ---
 
-### 📊 GitHub Analytics
+###  GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nakhalanatqiyaap&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="nakhalanatqiyaap's GitHub stats" height="192px"/>
