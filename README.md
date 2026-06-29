@@ -15,7 +15,7 @@
 ### 👨‍💻 About Me
 
 <p align="left">
-  👋 Just call me **Khalan**.<br>
+  👋 Just call me <b>Khalan</b><br>
   📚 Currently diving deep into full-stack web development and exploring Artificial Intelligence.<br>
   🤝 <strong>Community Builder:</strong> I actively manage and moderate game development groups, keeping the engagement alive.<br>
   🎯 <strong>My Goals:</strong> Become a top-tier Full-stack Web Developer and build my own Game Studio.<br>
