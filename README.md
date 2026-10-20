@@ -2,7 +2,10 @@
 <img src="./assets/bg3.jpg">
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Nakhalan Atqiya Arifin Putra</h1>
 <p align="center">
-  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Website+Developer;Full+Stack+Developer;Game+Developer;Desain+UI/UX&center=true&width=500&height=50"></a>
+  <a href="https://github.com/NakhalanAtqiyaAP/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Website+Developer;Full+Stack+Developer;Game+Developer;Desain+UI/UX&center=true&width=500&height=50"></a>
+  
+![](https://komarev.com/ghpvc/?username=NakhalanAtqiyaAP) [![wakatime](https://wakatime.com/badge/user/a4059c26-92f1-4aa2-b9fb-221f7b7da28f.svg)](https://wakatime.com/@a4059c26-92f1-4aa2-b9fb-221f7b7da28f) ![Followers](https://img.shields.io/github/followers/NakhalanAtqiyaAP?label=Followers) ![Stars](https://img.shields.io/github/stars/NakhalanAtqiyaAP?label=Stars)
+
 </p>
   <p align="right">
 
