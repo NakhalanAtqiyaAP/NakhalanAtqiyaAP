@@ -6,7 +6,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?lines=Website+Developer;Full+Stack+Developer;Game+Developer;Desain+UI%2FX&center=true&width=500&height=50" alt="Typing SVG" />
   </a>
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=NakhalanAtqiyaAP&color=blue" alt="Profile Views" />
   <a href="https://wakatime.com/@a4059c26-92f1-4aa2-b9fb-221f7b7da28f">
     <img src="https://wakatime.com/badge/user/a4059c26-92f1-4aa2-b9fb-221f7b7da28f.svg" alt="Wakatime" />
   </a>
