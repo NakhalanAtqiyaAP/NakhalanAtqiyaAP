@@ -21,18 +21,29 @@
 <h2 align="center">🌠 Most Used Technologies 🌠</h2>
 <br>
 <p align="center">
-  
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="54" height="54" style="vertical-align:top; margin:4px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="54" height="54" style="vertical-align:top; margin:4px;">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="54" height="54" style="vertical-align:top; margin:4px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="54" height="54" style="vertical-align:top; margin:4px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="54" height="54" style="vertical-align:top; margin:4px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"alt="csharp" width="54" height="54" style="vertical-align:top; margin:4px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="54" height="54" style="vertical-align:top; margin:4px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwind" width="54" height="54" style="vertical-align:top; margin:4px;">
+
+
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" />
+  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="50"/>
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="50"/>
+   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50"/>
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50"/>
+ <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50"/>
+
+
+<br>
+
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 15px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="54" height="54" style="vertical-align:top; margin:4px;">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="54" height="54" style="vertical-align:top; margin:4px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="54" height="54" style="vertical-align:top; margin:4px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="54" height="54" style="vertical-align:top; margin:4px
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwind" width="54" height="54" style="vertical-align:top; margin:4px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="54" height="54" style="vertical-align:top; margin:4px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="unity" width="54" height="54" style="vertical-align:top; margin:4px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="54" height="54" style="vertical-align:top; margin:4px;">
+</div>
+
+
 
     
    <h2 align="center">📊GitHub Stats</h2>
