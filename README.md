@@ -70,6 +70,10 @@
         <code><a href="https://vercel.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg"></a></code>
         <code><a href="https://www.blender.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/blender/blender-icon.svg"></a></code>
       </p>
+      <h4>System Operation</h4>
+      <p>
+        <code><a href="https://cachyos.org//" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-ar21~bgwhite.svg"></a></code>
+      </p>
     </td>
   </tr>
 </table>
