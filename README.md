@@ -51,16 +51,12 @@
     <td valign="top" width="50%">
       <h4>Database & Services</h4>
       <p>
-        <code><a href="https://mongodb.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"></a></code>
         <code><a href="https://firebase.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></a></code>
         <code><a href="https://www.mysql.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"></a></code>
-        <code><a href="https://www.influxdata.com/time-series-platform/telegraf/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/influxdata/influxdata-icon.svg"></a></code>
         <code><a href="https://www.docker.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"></a></code>
-        <code><a href="https://kubernetes.io/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"></a></code>
         <code><a href="https://about.gitlab.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg"></a></code>
-        <code><a href="https://www.jenkins.io/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"></a></code>
-        <code><a href="https://azure.microsoft.com/en-us/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"></a></code>
-        <code><a href="https://cloud.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></a></code>
+        <code><a href="https://www.postgresql.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"></a></code>
+        <code><a href="https://supabase.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/supabase/supabase-ar21.svg"></a></code>
       </p>
       <h4>Tools & Platforms</h4>
       <p>
