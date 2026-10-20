@@ -1,7 +1,9 @@
 
 <img src="./assets/bg3.jpg">
-<h1 align="center">👋Hi!, I'am Nakhalan Atqiya Arifin Putra</h1>
-
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Nakhalan Atqiya Arifin Putra</h1>
+<p align="center">
+  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Website+Developer;Full+Stack+Developer;Game+Developer;Desain+UI/UX&center=true&width=500&height=50"></a>
+</p>
   <p align="right">
 
    &nbsp;
