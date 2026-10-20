@@ -1,4 +1,3 @@
-
 <img src="./assets/bg3.jpg">
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Nakhalan Atqiya Arifin Putra</h1>
 <p align="center">
@@ -12,6 +11,23 @@
   <img src="https://img.shields.io/github/followers/NakhalanAtqiyaAP?label=Followers" alt="Followers" />
   <img src="https://img.shields.io/github/stars/NakhalanAtqiyaAP?label=Stars" alt="Stars" />
 </p>
+
+<!-- Social Media Section -->
+<p align="center">
+  <a href="mailto:emailkamu@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/username-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/username-instagram" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://websitekamu.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+</p>
+
   <p align="right">
 
    &nbsp;
@@ -86,11 +102,9 @@
   </tr>
 </table>
 
-
-
     
    <h2 align="center"> <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<b>GitHub Analytics</b></h2>
-<div align="center">   
+<div align="center">    
   
 <div align="center">
   <a href="https://github.com/NakhalanAtqiyaAP">
@@ -117,4 +131,3 @@
 </p>
 <h2></h2>
 <br><br><br><br><br>
-
