@@ -85,25 +85,20 @@
 <div align="center">   
   
 <div align="center">
-  <a href="https://github.com/Ratheshan03">
-    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=NakhalanAtqiyaAP&show_icons=true&hide_border=true&theme=dark&title_color=94b4a4&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000&count_private=true&include_all_commits=true&cache_seconds=1800"/>
+  <a href="https://github.com/NakhalanAtqiyaAP">
+    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=NakhalanAtqiyaAP&show_icons=true&hide_border=true&theme=radical&title_color=94b4a4&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000&count_private=true&include_all_commits=true&cache_seconds=1800"/>
   </a>
-  <a href="https://github.com/Ratheshan03">
-    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=NakhalanAtqiyaAP&text_color=FFFFFF&bg_color=000000&theme=dark&title_color=94b4a4&langs_count=8&layout=compact&hide_border=true&cache_seconds=1800"/>
-  </a>
-</div>
-<br>
-<div align="center">
-  <a href="https://github.com/Ratheshan03">
-    <img width="70%" src="https://github-readme-stats-fast.vercel.app/api/streak/?username=NakhalanAtqiyaAP&show_icons=true&theme=dark&hide_border=true&background=000000&ring=94b4a4&fire=94b4a4&currStreakLabel=94b4a4"/>
+  <a href="https://github.com/NakhalanAtqiyaAP">
+    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=NakhalanAtqiyaAP&text_color=FFFFFF&bg_color=000000&theme=radical&title_color=94b4a4&langs_count=8&layout=compact&hide_border=true&cache_seconds=1800"/>
   </a>
 </div>
 <br>
 <div align="center">
-  <a href="https://github.com/Ratheshan03">
-    <img src="https://github-profile-trophy.vercel.app/?username=Ratheshan03&theme=darkhub&no-frame=true"/>
+  <a href="https://github.com/NakhalanAtqiyaAP">
+    <img width="70%" src="https://github-readme-stats-fast.vercel.app/api/streak/?username=NakhalanAtqiyaAP&show_icons=true&theme=radical&hide_border=true&background=000000&ring=94b4a4&fire=94b4a4&currStreakLabel=94b4a4"/>
   </a>
 </div>
+
 </div>
 </p>
 <h2></h2>
