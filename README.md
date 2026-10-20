@@ -46,6 +46,11 @@
         <code><a href="https://tailwindcss.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"></a></code>
          <code><a href="https://getbootstrap.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"></a></code>
       </p>
+      <h4>Game Engines</h4>
+      <p>
+     <code><a href="https://unity.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"></a></code>
+      <code><a href="https://godotengine.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/godotengine/godotengine-icon.svg"></a></code>
+      </p>
     </td>
     <td valign="top" width="50%">
       <h4>Database & Services</h4>
@@ -64,13 +69,6 @@
         <code><a href="https://visualstudio.microsoft.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg"></a></code>
         <code><a href="https://vercel.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg"></a></code>
         <code><a href="https://www.blender.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/blender/blender-icon.svg"></a></code>
-      </p>
-    </td>
-    <td valign="top" width="50%">
-      <h4>Game Engines</h4>
-      <p>
-     <code><a href="https://unity.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"></a></code>
-      <code><a href="https://godotengine.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/godotengine/godotengine-icon.svg"></a></code>
       </p>
     </td>
   </tr>
