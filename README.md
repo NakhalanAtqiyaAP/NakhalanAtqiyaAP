@@ -16,7 +16,7 @@
   <a href="mailto:nakhalanatqiyaap@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/NakhalanAtqiyaAP" target="_blank">
+  <a href="https://www.linkedin.com/in/nakhalan-atqiya-arifin-putra-4b5b082a3/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/orangejahad" target="_blank">
