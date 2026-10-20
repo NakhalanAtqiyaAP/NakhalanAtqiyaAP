@@ -98,7 +98,13 @@
     <img width="70%" src="https://github-readme-stats-fast.vercel.app/api/streak/?username=NakhalanAtqiyaAP&show_icons=true&theme=radical&hide_border=true&background=000000&ring=94b4a4&fire=94b4a4&currStreakLabel=94b4a4"/>
   </a>
 </div>
-
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NakhalanAtqiyaAP/NakhalanAtqiyaAP/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NakhalanAtqiyaAP/NakhalanAtqiyaAP/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/NakhalanAtqiyaAP/NakhalanAtqiyaAP/output/github-snake.svg" />
+</picture>
+</div>
 </div>
 </p>
 <h2></h2>
