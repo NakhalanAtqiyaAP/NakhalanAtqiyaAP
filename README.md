@@ -2,10 +2,16 @@
 <img src="./assets/bg3.jpg">
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Nakhalan Atqiya Arifin Putra</h1>
 <p align="center">
-  <a href="https://github.com/NakhalanAtqiyaAP/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Website+Developer;Full+Stack+Developer;Game+Developer;Desain+UI/UX&center=true&width=500&height=50"></a>
-  
-![](https://komarev.com/ghpvc/?username=NakhalanAtqiyaAP) [![wakatime](https://wakatime.com/badge/user/a4059c26-92f1-4aa2-b9fb-221f7b7da28f.svg)](https://wakatime.com/@a4059c26-92f1-4aa2-b9fb-221f7b7da28f) ![Followers](https://img.shields.io/github/followers/NakhalanAtqiyaAP?label=Followers) ![Stars](https://img.shields.io/github/stars/NakhalanAtqiyaAP?label=Stars)
-
+  <a href="https://github.com/NakhalanAtqiyaAP/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Website+Developer;Full+Stack+Developer;Game+Developer;Desain+UI%2FX&center=true&width=500&height=50" alt="Typing SVG" />
+  </a>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=NakhalanAtqiyaAP&color=blue" alt="Profile Views" />
+  <a href="https://wakatime.com/@a4059c26-92f1-4aa2-b9fb-221f7b7da28f">
+    <img src="https://wakatime.com/badge/user/a4059c26-92f1-4aa2-b9fb-221f7b7da28f.svg" alt="Wakatime" />
+  </a>
+  <img src="https://img.shields.io/github/followers/NakhalanAtqiyaAP?label=Followers" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/NakhalanAtqiyaAP?label=Stars" alt="Stars" />
 </p>
   <p align="right">
 
